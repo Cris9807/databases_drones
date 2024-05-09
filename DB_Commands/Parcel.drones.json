@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "6632b35b88b5b10ca5554365"
+  },
+  "name": "HD-SRH1",
+  "available": "true"
+},
+{
+  "_id": {
+    "$oid": "6632b4ab88b5b10ca5554368"
+  },
+  "name": "HD-SRH2",
+  "available": "true"
+},
+{
+  "_id": {
+    "$oid": "6632b4c388b5b10ca5554369"
+  },
+  "name": "HD-SRH3",
+  "available": "true"
+},
+{
+  "_id": {
+    "$oid": "6632b4d088b5b10ca555436a"
+  },
+  "name": "HD-SRH4",
+  "available": "true"
+},
+{
+  "_id": {
+    "$oid": "6632b4e188b5b10ca555436b"
+  },
+  "name": "HD-SRH6",
+  "available": "true"
+},
+{
+  "_id": {
+    "$oid": "6632b4ea88b5b10ca555436c"
+  },
+  "name": "HD-SRH7",
+  "available": "true"
+},
+{
+  "_id": {
+    "$oid": "6632b4f488b5b10ca555436d"
+  },
+  "name": "HD-SRH8",
+  "available": "true"
+},
+{
+  "_id": {
+    "$oid": "6632b4fe88b5b10ca555436e"
+  },
+  "name": "HD-SRH9",
+  "available": "true"
+}]
